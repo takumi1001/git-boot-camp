@@ -1,6 +1,8 @@
 # git-boot-camp
 enPiT講義用
 
+- WSLからコミットできるかのテスト
+
 # External Links
 
  - enPiT2　成長分野を支える情報技術人材の育成拠点の形成 - https://www.enpit.jp/
